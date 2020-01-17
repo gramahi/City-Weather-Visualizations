@@ -10,8 +10,18 @@ In this porject, our primary objective is simple, we will create a Python script
 
 * Wind Speed (mph) vs. Latitude
 
-# Utilized Libraries and Data retrieved to accomplish the goal are:
-
+# Required tools, Python Libraries:  
+    
     1) Citipy, a python Library
 
     2) OpenWeatherMap API 
+    
+# Data-retrieved-Processes and Analyzed: 
+    
+    1) Python API-Interactions. API-Requests are intiated via API-Request from Weather Map API.
+    
+    2) Constuct a technical understanding of the Data Set
+    
+    3) Process the Data through performing necessary calculations. Thereafter Extract and Load the Data
+    
+    4) Model and perfrom the neccessary visualizations through Matplotlib to conclude the Analysis
